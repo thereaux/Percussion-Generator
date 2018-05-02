@@ -23,12 +23,12 @@ Download instructions:
   * If nothing is working, make sure you have written in notes. If that doesn't work, make sure the envelope control knobs are turned so that you can produce a sound. 
   
 It should look like this on an ableton track:
-![Correct Setup](correct device setup.png)
+![Correct Setup](https://github.com/thereaux/Percussion-Generator/blob/master/correct%20device%20setup.png)
 
 
   * If the device isn't on a track with MIDI notes, no sound will be created.
 Writing in MIDI Should look like this:
-![MIDI Demo](MIDI with device.png)
+![MIDI Demo](https://github.com/thereaux/Percussion-Generator/blob/master/MIDI%20with%20device.png)
 
 ### Resources Used to Make This:
 
