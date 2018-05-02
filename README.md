@@ -22,15 +22,19 @@ Download instructions:
 
   * If nothing is working, make sure you have written in notes. If that doesn't work, make sure the envelope control knobs are turned so that you can produce a sound. 
   
-  * If the device isn't on a track with MIDI notes, no sound will be created.
 It should look like this on an ableton track:
-![text] (link)
+![Correct Setup](correct device setup.png)
+
+
+  * If the device isn't on a track with MIDI notes, no sound will be created.
+Writing in MIDI Should look like this:
+![MIDI Demo](MIDI with device.png)
 
 ### Resources Used to Make This:
 
  * [Monome Sum](https://monome.org/docs/app/sum/) for Monome hardware implimentation
  * Max help files (built in).
- * [Ableon Core Max Library] (https://help.ableton.com/hc/en-us/articles/360000776490-The-Core-Library) for visual implementation of the envelope.
+ * [Ableon Core Max Library](https://help.ableton.com/hc/en-us/articles/360000776490-The-Core-Library) for visual implementation of the envelope.
  
  #### Future Design Work
  
