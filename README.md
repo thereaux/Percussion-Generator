@@ -16,12 +16,15 @@ Download instructions:
  * Groove knob: offsets the notes from the original starting point by a constant time
  * Amplitude Control for both waves
  * Helpful README
+ * Main oscillator wave drawing: Shift+Click Dots to add or delete points on the wave.Drag points up and down to create different arrangements.
  
 ### Troubleshooting
 
   * If nothing is working, make sure you have written in notes. If that doesn't work, make sure the envelope control knobs are turned so that you can produce a sound. 
+  
   * If the device isn't on a track with MIDI notes, no sound will be created.
-
+It should look like this on an ableton track:
+![text] (link)
 
 ### Resources Used to Make This:
 
@@ -31,9 +34,7 @@ Download instructions:
  
  #### Future Design Work
  
- * Integrate Traktor's MIDI clocking to sync delay devices
- * Map the Monome controller to control the effects routing matrix
- * Make audio output menu routing to choose output destination
- * Route Traktor's audio inputs into Max easily and reliably
- * Add more CPU efficient decices into the application
- * Add momentary hold / hold functionality to the Monome mapping
+ * Integrate audio drag and drop so you can use other features
+ * Map the Monome controller to control the triggers of percussion blips
+ * Create a way to save specific audio waveform arrangements that save for each instance of the device
+ * Add more CPU efficient devices into the application
