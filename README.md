@@ -1,4 +1,4 @@
-# Percussion-Generator
+# Squid Slicer aka Percussion-Generator
 A percussive and melodic instrument created in Max 8.
 
 Download instructions:
