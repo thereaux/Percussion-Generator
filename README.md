@@ -1,5 +1,5 @@
 # Squid Slicer aka Percussion-Generator
-A percussive and melodic instrument created in Max 8.
+A percussive and melodic instrument created in Max 8. Creation by thereaux.
 
 Download instructions:
 
@@ -32,9 +32,9 @@ Writing in MIDI Should look like this:
 
 ### Resources Used to Make This:
 
- * [Monome Sum](https://monome.org/docs/app/sum/) for Monome hardware implimentation
  * Max help files (built in).
  * [Ableon Core Max Library](https://help.ableton.com/hc/en-us/articles/360000776490-The-Core-Library) for visual implementation of the envelope.
+ * [MaxforLive Community](http://www.maxforlive.com/library/device/4740/squid-slicer) this is where my device resides for other Max for Live users!
  
  #### Future Design Work
  
@@ -42,3 +42,4 @@ Writing in MIDI Should look like this:
  * Map the Monome controller to control the triggers of percussion blips
  * Create a way to save specific audio waveform arrangements that save for each instance of the device
  * Add more CPU efficient devices into the application
+ * To edit and make your own changes, simply click the patching rectangle in the upper right hand corner (the left most of the three icons), once it opens a seperate window with Max, click the snowflake to unfreeze the device, and click the lock to further unlock the device to see patch cables and objects.
